@@ -10,7 +10,7 @@ Personal project developed during the STRV Data Science Academy 2022
 5. [Model Development](#model-development)
 6. [Model Evaluation](#model-evaluation)
 7. [Bibliography](#bibliography)
-8. [Appendix]
+8. [Appendix](#appendix)
 
 ## Business Problem Definition
 ## Data Acquisition
